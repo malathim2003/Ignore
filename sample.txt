@@ -1,0 +1,1 @@
+A .gitignore file tells Git which files and directories to ignore, preventing them from being tracked or committed to the repository.
